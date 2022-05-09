@@ -1,6 +1,6 @@
 //Edited by Shahriman on 9 May
 //Today is Monday
-//I am hungry
+//I am hungry, I want to eat fried rice.
 //Tic Tac Toe Game in C++
 //Importing the inbuild libraries in CPP
 #include <iostream>
