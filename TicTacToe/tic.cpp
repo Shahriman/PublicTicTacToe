@@ -1,6 +1,6 @@
-//Edited by Shahriman on 18 May
-//Today is Wednesday
-//I am angry
+//Edited by Shahriman on 24 May
+//Today is Tuesday
+
 //Tic Tac Toe Game in C++
 //Importing the inbuild libraries in CPP
 #include <iostream>
